@@ -1,0 +1,32 @@
+{
+  "vada pav": {
+    "calories": 290,
+    "protein": 6,
+    "carbs": 35,
+    "fats": 14
+  },
+  "paneer butter masala": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 10,
+    "fats": 28
+  },
+  "chicken biryani": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 28,
+    "fats": 8
+  },
+  "masala dosa": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 30,
+    "fats": 8
+  },
+  "samosa": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 30,
+    "fats": 15
+  }
+}
