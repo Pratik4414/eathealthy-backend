@@ -1,8 +1,11 @@
-import express from "express";
-import axios from "axios";
-import fs from "fs";
+const express = require ("express");
+const cors = require("cors");
+const axios = require("axios");
+const fs = require("fs");
 
 const app = express();
+
+app.use(cors());
 app.use(express.json());
 
 // 🔴 Load Indian Food Database
