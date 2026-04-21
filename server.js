@@ -1,7 +1,7 @@
-const express = require ("express");
-const cors = require("cors");
-const axios = require("axios");
-const fs = require("fs");
+import express from "express";
+import cors from "cors";
+import axios from "axios";
+import fs from "fs";
 
 const app = express();
 
